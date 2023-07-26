@@ -6,3 +6,7 @@ if ns == ns[::-1]:
     print("The number is palindrome")
 else:
     print("The number is not palindrome")
+
+print("The number is",a)
+print("The reverse of the number is :",ns[::-1])
+print("the sum of num and the reverse is:",a+int(ns[::-1]))
