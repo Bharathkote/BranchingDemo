@@ -13,3 +13,5 @@ print("The sum of the digits:",total)
 
 
 print("The average of digits is:",total/count)
+
+print("The sum & Avg",total,total/count)
